@@ -45,3 +45,6 @@ You can change the grid size from:
 up, to:
 
 100 × 100
+
+Screenshot:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/82c7501a-bdde-4f46-a2a4-88aa4edf81b2" />
