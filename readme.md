@@ -1,9 +1,9 @@
-*Color grid*
+**Color grid**
 
 You can move your mouse over the Color Grid to draw switch between coloring modes erase cells or change how big the Color Grid is.
 
 
-##Features
+#_Features_
 
 Normal Mode. Colors squares black
 
@@ -18,13 +18,13 @@ Custom Grid Size. Choose between 1 × 1 and 100 × 100
 Reset. Clears the grid while keeping the selected grid size
 
 
-##Technologies Used
+##_Technologies Used_
 -HTML5
 -CSS3 
 -JavaScript
 
 
-##Grid Size
+###*Grid Size*
 
 The default grid is:
 10 × 10
@@ -35,16 +35,16 @@ up, to:
 100 × 100
 
 
-##Inspiration
+***Inspiration***
 
 I was inspired by the Etch A Sketch idea and the thought of making a simple drawing app that runs in a browser using only basic web tools.
 The aim was to practice DOM manipulation, event handling, dynamic element creation and CSS Grid while making something fun and interactive....
 
-What I Learned
+_What I Learned_
 
 - Creating grid elements dynamically with JavaScript
 - Handling mouse hover events, mouse hover events
 - Managing user interactions, with DOM elementss
   
-Screenshot:
+#_Screenshot:_
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/82c7501a-bdde-4f46-a2a4-88aa4edf81b2" />
