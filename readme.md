@@ -1,4 +1,4 @@
-##Color grid
+*Color grid*
 
 You can move your mouse over the Color Grid to draw switch between coloring modes erase cells or change how big the Color Grid is.
 
